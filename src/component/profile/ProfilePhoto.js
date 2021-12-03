@@ -11,4 +11,4 @@ return (
        
 )
 } 
-export default Myprofilepic;
+exp ort default Myprofilepic;
